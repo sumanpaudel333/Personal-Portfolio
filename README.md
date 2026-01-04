@@ -100,21 +100,3 @@ npm run build
 npm start
 ```
 
-## Deployment
-
-This project is ready to deploy on Vercel:
-
-1. Push your code to GitHub
-2. Import the project in Vercel
-3. Deploy automatically
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-Suman Paudel - suman@example.com
-
-Project Link: [GitHub Repository](https://github.com)
-
